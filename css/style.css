@@ -1,0 +1,59 @@
+body {
+	background-color: rgb(139,69,19);
+	margin: 50px;
+}
+h1 {
+	<!-- COR DA LETRA E COR DE FUNDO -->
+	color: rgb(0, 0, 0);
+	background-color: rgb(222,184,135);
+	border-color: rgb(0, 0, 0);
+	border-style: double;
+	border-width: 3pix;
+	font-family: initial;
+	padding: 10px;
+	text-align: center;
+}
+figcaption{
+	color: rgb(245,222,179);
+	text-align: center;
+}
+figure {
+	text-align: center;
+}
+h2 {
+	color:rgb(0, 0, 0);
+	background-color: rgb(222,184,135);
+	border-color: rgb(0, 0, 0);
+	border-style: double;
+	border-width: 3pix;
+	font-family: initial;
+	padding: 10px;
+	text-align: center;
+}
+h3 {
+	color: rgb(28,28,28);
+	background-color: rgb(222,184,135);
+	border-color: rgb(0, 0, 0);
+	border-style: double;
+	border-width: 3pix;
+	font-family: initial;
+	padding: 5px;
+}
+p {
+	color:rgb(28,28,28);
+	background-color: rgb(222,184,135);
+	border-color: rgb(0, 0, 0);
+	border-style: double;
+	border-width: 3pix;
+	font-family: initial;
+	padding: 5px;
+}
+ul{
+	color: rgb(0, 0, 0);
+	background-color: rgb(222,184,135);
+	border-color: rgb(0, 0, 0);
+	border-style: double;
+	border-width: 3pix;
+	font-family: initial;
+	margin-top: 20px;
+}
